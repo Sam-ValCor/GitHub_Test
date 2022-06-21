@@ -8,3 +8,6 @@ GitHub_Trending(https://github.com/trending)
 
 Basic commands:
 git init (Create a new repository)
+git status (status)
+git add.
+git commit -m
